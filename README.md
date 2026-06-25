@@ -34,7 +34,7 @@ This project analyzes a real-world online retail dataset (~500k transactions) fr
 - **Jupyter Notebook**
 
 ## 📁 Repository Structure 
-├── README.md                 # Cleaned Dataset     
+├── README.md                 # Extended Project Description    
 ├── Task1 Screenshot.png      # Screenshot of the Visualization Charts
 
 ├── Task1.ipynb               # Main Analysis notebook
