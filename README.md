@@ -36,7 +36,9 @@ This project analyzes a real-world online retail dataset (~500k transactions) fr
 ## 📁 Repository Structure 
 ├── online_retail_cleaned.csv          # Cleaned Dataset     
 ├── Online_Retail_Analysis.ipynb       # Main analysis notebook
+
 ├── README.md
+
 └── screenshots/                       # Folder for charts
 Note: The original raw dataset can be downloaded from Kaggle - https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 📈 Main Visualizations Included
@@ -50,6 +52,9 @@ Revenue by Country
 ## 💡 Business Recommendations
 
 Prioritize inventory and marketing around top 10 products
+
 Prepare heavily for Q4 (especially November)
+
 Optimize operations for Thursday and midday hours
+
 Explore expansion opportunities in high-potential European markets (Netherlands, Ireland, Germany)
