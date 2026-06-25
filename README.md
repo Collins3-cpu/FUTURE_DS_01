@@ -40,13 +40,18 @@ This project analyzes a real-world online retail dataset (~500k transactions) fr
 ├── README.md
 
 └── screenshots/                       # Folder for charts
+
 Note: The original raw dataset can be downloaded from Kaggle - https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 📈 Main Visualizations Included
 
 ## Top 10 Revenue Generating Products
+
 Monthly Revenue Trend (2010–2011)
+
 Revenue by Day of the Week
+
 Revenue by Hour of the Day
+
 Revenue by Country
 
 ## 💡 Business Recommendations
