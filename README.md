@@ -34,17 +34,18 @@ This project analyzes a real-world online retail dataset (~500k transactions) fr
 - **Jupyter Notebook**
 
 ## 📁 Repository Structure 
-├── online_retail_cleaned.csv          # Cleaned Dataset     
-├── Online_Retail_Analysis.ipynb       # Main analysis notebook
+├── README.md                 # Cleaned Dataset     
+├── Task1 Screenshot.png      # Screenshot of the Visualization Charts
 
-├── README.md
+├── Task1.ipynb               # Main Analysis notebook
 
-└── screenshots/                       # Folder for charts
+└── online_retail_cleaned.zip # Compressed folder with the Cleaned Dataset
 
 Note: The original raw dataset can be downloaded from Kaggle - https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
-📈 Main Visualizations Included
 
-## Top 10 Revenue Generating Products
+## 📈 Main Visualizations Included
+
+Top 10 Revenue-Generating Products
 
 Monthly Revenue Trend (2010–2011)
 
