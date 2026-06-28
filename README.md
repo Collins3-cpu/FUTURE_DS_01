@@ -64,3 +64,8 @@ Prepare heavily for Q4 (especially November)
 Optimize operations for Thursday and midday hours
 
 Explore expansion opportunities in high-potential European markets (Netherlands, Ireland, Germany)
+
+## 🚀 How to Run
+Clone the repository:
+git clone <https://github.com/Collins3-cpu/FUTURE_DS_01>
+cd customer-churn-analysis
